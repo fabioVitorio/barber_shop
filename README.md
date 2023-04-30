@@ -1,8 +1,7 @@
-## ⚙️Sistema CRM 
-Sistema de controle de tickets criado no trabalho final do curso Desenvolvimento de sistemas.
+## ⚙️Sistema de controle de uma barbearia.
+Sistema de controle de clientes e de caixa criado no do curso Desenvolvimento de sistemas.
 <br> <br>
-✅Estrura MVC <br>
+✅POO <br>
 ✅Metodologias ágeis <br>
-✅Níveis de acesso <br>
 ✅Diagramas UML <br>
-✅PHP, MySQL, JavaScript, API's
+✅C#, MySQL
