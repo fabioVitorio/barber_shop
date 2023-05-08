@@ -2,6 +2,7 @@
 Sistema de controle de clientes e de caixa criado no do curso Desenvolvimento de sistemas
 <br> <br>
 ✅POO <br>
+✅Relatório<br>
 ✅Metodologias ágeis <br>
 ✅Diagramas UML <br>
 ✅C#, MySQL <br>
