@@ -1,12 +1,16 @@
-## ⚙️Sistema de controle de uma barbearia.
-Sistema de controle de clientes e de caixa criado no do curso Desenvolvimento de sistemas
-<br> <br>
-✅POO <br>
-✅Relatório<br>
-✅Metodologias ágeis <br>
-✅Diagramas UML <br>
-✅C#, MySQL <br>
+## ⚙️*Sistema de controle de uma barbearia.*
 
+>✅POO <br>
+>✅Relatório<br>
+>✅Metodologias ágeis <br>
+>✅Diagramas UML <br>
+>✅C#, MySQL <br>
+<div>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioVitorio&repo=barber_shop"/>
+  <a href="https://github.com/fabioVitorio">
+</div>
+
+##
 ![img1](https://user-images.githubusercontent.com/109548564/235332835-db36dbdd-8044-4003-8716-0f65a4316efa.PNG)
 ##
 ![img2](https://user-images.githubusercontent.com/109548564/235332836-f1b49e3e-50f7-41f7-baf6-6577f3557236.PNG)
