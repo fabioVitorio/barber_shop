@@ -1,10 +1,20 @@
-## ⚙️*Sistema de controle de uma barbearia.*
+### <p align='center'> ![logoMental](https://github.com/fabioVitorio/app/assets/109548564/efd92611-26ee-4789-a991-5395155c7e7f) </p>
+<br>
+<p align='center'> Flow control and customer scheduling system in a barber shop <br></p>
 
->✅POO <br>
->✅Relatório<br>
->✅Metodologias ágeis <br>
->✅Diagramas UML <br>
->✅C#, MySQL <br>
+##
+### ⚙️ Installation
+```bash
+~
+```
+##
+#### Skills
+- ⚙️ OOP <br>
+- 🔖 SCRUM <br>
+- 📒 UML diagrams <br>
+ #### Technologies
+- 🟢 C# <br>
+- 🟤 MySQL <br>
 <div>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioVitorio&repo=barber_shop"/>
   <a href="https://github.com/fabioVitorio">
