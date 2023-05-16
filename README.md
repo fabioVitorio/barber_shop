@@ -1,4 +1,4 @@
-### <p align='center'> ![logoMental](https://github.com/fabioVitorio/app/assets/109548564/efd92611-26ee-4789-a991-5395155c7e7f) </p>
+### <p align='center'> ![logo_menu](https://github.com/fabioVitorio/barber_shop/assets/109548564/c33dca05-06d3-452c-a6bc-479e044ccc75) </p>
 <br>
 <p align='center'> Flow control and customer scheduling system in a barber shop <br></p>
 
